@@ -42,7 +42,7 @@ Keeping a customer is usually cheaper than winning a new one, so telecom compani
 | Contract type | Month-to-month churn is **42.71%**, one-year **11.27%**, two-year **2.83%**. Month-to-month customers account for **$120,847/month (about 87%)** of the lost revenue |
 | Tenure | Customers in their first year churn at **47.44%**, falling to **28.71%**, **20.39%** and **9.51%** in later cohorts |
 | Add-on services | Customers with **neither** Tech Support nor Online Security churn at **49.0%**. Customers with **both** churn at **9.0%** |
-| Internet type | *(run Query 6 in the notebook and add the DSL vs Fiber optic churn rates here)* |
+
 
 **Terms I had to learn**
 - **Churn rate** = churned customers / all customers in a group. Example: 47.44% of first-year customers left.
