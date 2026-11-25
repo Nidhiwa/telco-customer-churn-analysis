@@ -78,8 +78,8 @@ telco-customer-churn-analysis/
 ├── requirements.txt
 ├── .gitignore
 ├── sql/queries.sql
-└── notebooks/
-    └── Telco_Churn_Analysis.ipynb
+└── Telco_Churn_Analysis.ipynb
+    
 ```
 
 Click the Colab badge above and choose **Runtime > Run all**. The notebook downloads the CSV from IBM's GitHub itself.
