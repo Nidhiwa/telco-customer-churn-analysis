@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nidhiwa/telco-customer-churn-analysis/blob/main/notebooks/Telco_Churn_Analysis.ipynb)
 
-A beginner-level exploratory data analysis (EDA) project. I used **Python (Pandas, NumPy)**, **SQL (SQLite)**, **Matplotlib** and **Seaborn** to find out which telecom customers leave (churn) and how much monthly revenue those customers represent. I built it to practise the analyst workflow: clean the data, ask business questions, query with SQL, visualize, and recommend actions.
+It is a exploratory data analysis (EDA) project where I used **Python (Pandas, NumPy)**, **SQL (SQLite)**, **Matplotlib** and **Seaborn** to find out which telecom customers leave (churn) and how much monthly revenue those customers represent. I built it to practise the analyst workflow: clean the data, ask business questions, query with SQL, visualize, and recommend actions.
 
 > **Note:** The data is a public IBM sample dataset, so the results show analysis technique and may not match any real company.
 
